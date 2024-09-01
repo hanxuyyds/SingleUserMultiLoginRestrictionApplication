@@ -1,0 +1,2 @@
+# SingleUserMultiLoginRestrictionApplication
+手写使用session实现单用户多端登录限制的方案
